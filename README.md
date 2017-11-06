@@ -18,7 +18,7 @@ Django 1.11.16
 
 Python 2.7   
 
-# Mise ne place 
+# Mise en place 
 
 # Utilisation rapide
 # Licence(s)
